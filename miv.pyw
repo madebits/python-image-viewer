@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # Minimal image viewer
-# (C) 2012 http://madebits.com
+# (C) 2012 madebits
 # No warranty. Use as it fits to you.
 
 import os, sys

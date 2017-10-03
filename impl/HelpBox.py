@@ -28,7 +28,7 @@ class HelpBox(Toplevel):
         scrollbar.pack(side=RIGHT, fill=Y)
         scrollbar.config(command=text.yview)
         text.config(yscrollcommand=scrollbar.set)
-        data = """http://madebits.com Press Esc key or right-click to close help.
+        data = """Press Esc key or right-click to close help.
 
 miv.pyw [OPTIONS] pathToFileOrFolder
 
